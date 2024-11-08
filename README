@@ -1,12 +1,12 @@
-#Brain Tumor Detection using Convolutional Neural Networks (CNN) and Machine Learning
+# Brain Tumor Detection using Convolutional Neural Networks (CNN) and Machine Learning
 This project is a deep learning-based solution for detecting brain tumors from MRI scans using Convolutional Neural Networks (CNN) in Python. The goal is to build a reliable, automated system capable of identifying the presence of brain tumors, assisting medical professionals in early detection and diagnosis.
 
-Project Overview
+#Project Overview
 Brain tumors are abnormal growths of cells within the brain, which can be life-threatening if not detected and treated early. Manual analysis of MRI scans for brain tumor detection can be time-consuming and subjective. This project addresses these challenges by leveraging machine learning and computer vision techniques to automate the detection of brain tumors from MRI images.
 
 By using CNNs, which are particularly effective for image recognition tasks, this system can learn complex patterns from MRI scan images, identifying the presence of tumors with high accuracy. The project uses the MRI brain tumor dataset from Kaggle, where each image is labeled for the presence or absence of a tumor, allowing the CNN model to learn these classifications effectively.
 
-Features
+#Features
 Automated Brain Tumor Detection: This project aims to simplify and speed up the process of brain tumor detection by using deep learning, reducing the need for manual MRI scan interpretation.
 High Accuracy with CNN: The CNN architecture was specifically designed to learn the visual patterns associated with brain tumors, allowing for precise classification.
 Real-World Dataset: The model is trained on a real-world MRI dataset from Kaggle, containing various brain MRI images with labeled data for the presence or absence of tumors.
